@@ -71,27 +71,25 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           },
           {
             "id": "930041914a9eef0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cuestionamientos Cristianos/Bibliografía/Papers/Modal Collapse and Modal Fallacies - John William Waldrop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Modal Collapse and Modal Fallacies - John William Waldrop"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,10 +210,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/El Argumento de los Fenómenos Físicos.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Índice de Argumentos Cristianos.md",
+    "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Índice de Cuestionamientos Cristianos.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
     "Home.md",
     "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos.md",
-    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/El Argumento de los Fenómenos Físicos.md",
-    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
     "Imágenes/banner--maria--2019jpg.jpg",
     "Sin título 1.base",
     "Sin título.base",
@@ -224,7 +224,6 @@
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo/Cuadrado ROTAS-SATOR de Pompeya (posible cripto-cristiano) - Pompeya, ant. 79 DC.md",
     "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Argumentos/Argumentos Varios/Argumento de la Necesidad-Capricho.md",
     "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Argumentos/Argumentos Varios/El Problema de los Santos Resucitados.md",
-    "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Índice de Cuestionamientos Cristianos.md",
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo/Restos del Templo Herodiano y el Monte del Templo - Jerusalén, s. I AC.md",
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo/Inscripción de Teodoto (sinagoga pre-70 DC) - Jerusalén, s. I AC–I DC.md",
     "Cuestionamientos Cristianos/Bibliografía/Videos/Are There Any Good Arguments for God - Ed Feser vs Graham Oppy.md",
