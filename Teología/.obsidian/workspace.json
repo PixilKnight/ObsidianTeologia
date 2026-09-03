@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -187,9 +187,21 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "52a000cff67513f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propiedades del archivo"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,12 +222,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos 1.md",
+    "Sin título.canvas",
     "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/El Argumento de los Fenómenos Físicos.md",
     "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Índice de Argumentos Cristianos.md",
     "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Índice de Cuestionamientos Cristianos.md",
-    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
     "Home.md",
-    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos.md",
     "Imágenes/banner--maria--2019jpg.jpg",
     "Sin título 1.base",
     "Sin título.base",
@@ -238,7 +252,6 @@
     "Cuestionamientos Cristianos/Definiciones/Conceptos/Ipsum Esse Subsistens.md",
     "Cuestionamientos Cristianos/Definiciones/Conceptos/Intellectus Humanus.md",
     "Cuestionamientos Cristianos/Definiciones/Conceptos/Intellectus Divinus.md",
-    "Cuestionamientos Cristianos/Definiciones/Conceptos/Intelecto.md",
     "Cuestionamientos Cristianos/Personas/Personas Históricas",
     "Cuestionamientos Cristianos/Personas",
     "Cuestionamientos Cristianos/Definiciones/Conceptos",
@@ -255,7 +268,6 @@
     "Imágenes/lily evans _ aesthetic.jpg",
     "Imágenes/Book aesthetics ✧･ﾟ_ _✧･ﾟ__.jpg",
     "Imágenes/header aesthetic.jpg",
-    "Imágenes/b59fa9d439118962f1b5be2e8a046cb1.jpg",
-    "Sin título.canvas"
+    "Imágenes/b59fa9d439118962f1b5be2e8a046cb1.jpg"
   ]
 }
