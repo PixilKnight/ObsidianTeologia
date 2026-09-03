@@ -90,7 +90,8 @@
               "title": "Modal Collapse and Modal Fallacies - John William Waldrop"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,16 +210,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5b5d074520fd8e38",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
     "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Sobre los Dogmas Marianos.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/El Argumento de los Fenómenos Físicos.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
+    "Imágenes/banner--maria--2019jpg.jpg",
+    "Sin título 1.base",
+    "Sin título.base",
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo/Rollos del Mar Muerto - Qumrán, ~250 AC–68 DC.md",
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/🔎 Arqueología.md",
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo/Cuadrado ROTAS-SATOR de Pompeya (posible cripto-cristiano) - Pompeya, ant. 79 DC.md",
     "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Argumentos/Argumentos Varios/Argumento de la Necesidad-Capricho.md",
-    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/El Argumento de los Fenómenos Físicos.md",
-    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
     "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Argumentos/Argumentos Varios/El Problema de los Santos Resucitados.md",
     "Cuestionamientos Cristianos/Apologética/Cuestionamientos Anti-Cristianos/Índice de Cuestionamientos Cristianos.md",
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo/Restos del Templo Herodiano y el Monte del Templo - Jerusalén, s. I AC.md",
@@ -236,8 +240,6 @@
     "Cuestionamientos Cristianos/Definiciones/Conceptos/Intellectus Humanus.md",
     "Cuestionamientos Cristianos/Definiciones/Conceptos/Intellectus Divinus.md",
     "Cuestionamientos Cristianos/Definiciones/Conceptos/Intelecto.md",
-    "Cuestionamientos Cristianos/Definiciones/Conceptos/Essentia.md",
-    "Sin título.base",
     "Cuestionamientos Cristianos/Personas/Personas Históricas",
     "Cuestionamientos Cristianos/Personas",
     "Cuestionamientos Cristianos/Definiciones/Conceptos",
@@ -246,7 +248,6 @@
     "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento/Periodo del Segundo Templo",
     "Cuestionamientos Cristianos/Bibliografía/Papers/Análisis",
     "Cuestionamientos Cristianos/Bibliografía/Videos/Análisis",
-    "Cuestionamientos Cristianos/Bibliografía/Libros/Análisis",
     "Imágenes/descarga (2).jpg",
     "Imágenes/0f047d5000138ce0d3190f3607db42b5.jpg",
     "Imágenes/newspaper_digitization_1920x1080.webp",
@@ -256,7 +257,6 @@
     "Imágenes/Book aesthetics ✧･ﾟ_ _✧･ﾟ__.jpg",
     "Imágenes/header aesthetic.jpg",
     "Imágenes/b59fa9d439118962f1b5be2e8a046cb1.jpg",
-    "Imágenes/descarga (1).jpg",
     "Sin título.canvas"
   ]
 }
