@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard-layout
 banner: "![[6witchyyabookshalloweenfeatured.webp]]"
-banner_y: 0.476
+banner_y: 0.07267
 ---
 ```dataviewjs
 // Atlas — a calm home dashboard for your vault.

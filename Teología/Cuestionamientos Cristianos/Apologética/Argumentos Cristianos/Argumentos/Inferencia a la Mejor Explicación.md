@@ -1,5 +1,6 @@
 ---
 banner: "![[newspaper_digitization_1920x1080.webp]]"
+banner_y: 0.48333
 ---
 
 ---
