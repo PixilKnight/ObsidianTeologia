@@ -13,6 +13,17 @@ banner: "![[newspaper_digitization_1920x1080.webp]]"
 ​	La idea central es que existen ciertas "virtudes explicativas" que son indicadores confiables de qué hipótesis probablemente sea verdadera, precisamente porque en el mundo real las explicaciones profundas y unificadoras tienden a sí ser las correctas. Después de todo, así lo aparenta la práctica científica.
 
 ​	Por ejemplo, el teísmo, al unificar contingencia, ajuste fino, conciencia y moralidad bajo una sola explicación coherente, no estaría solo siendo "más elegante" al pedo, si no que está dando evidencia genuina, vía IBE, de mayor probabilidad.
+#### ¿Qué significa probabilidad en el contexto abductivo?
+​​	En el terreno abductivo usamos la misma interpretación lógico-epistémica de probabilidad que se usa en el razonamiento histórico o forense y en la confirmación de hipótesis científicas únicas. Hablamos de un soporte evidencial racional para una proposición sobre un evento singular no repetible.
+
+​	Formalmente, P(H|E) no denota una frecuencia relativa observada en una serie de ensayos, sino el grado de creencia que un agente epistémicamente racional e ideal debería asignar a la hipótesis H, dado el cuerpo total de evidencia E disponible. La palabra clave es _debería_: no se trata de cuánta confianza tiene de hecho un sujeto cualquiera (eso sería subjetivismo sin restricciones, donde "probable" equivaldría a "me convence"), sino de cuánta confianza está justificada por la evidencia bajo los cánones de la racionalidad.
+
+​	Ese "debería" está normativamente constreñido por dos elementos, no por intuición libre:
+
+1. **Los axiomas formales de la probabilidad** (coherencia interna: las credencias de un agente racional deben respetar los axiomas de Kolmogorov, sin importar el dominio al que se apliquen).
+2. **Las virtudes explicativas** que funcionan como los criterios que fijan qué asignaciones de probabilidad están racionalmente justificadas frente a un cuerpo de evidencia dado.
+
+​	Esta interpretación es la misma que usamos cuando un historiador evalúa cuán probable es que Bruto haya participado en el asesinato de César, o cuando un cosmólogo evalúa la hipótesis inflacionaria frente a la radiación de fondo: ninguno de esos eventos es repetible ni frecuencialmente medible, y sin embargo el discurso sobre su probabilidad es perfectamente legítimo.
 
 ---
 
