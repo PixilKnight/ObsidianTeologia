@@ -1,0 +1,7 @@
+### Nuestro Conocimiento Sobre El Mundo de los Evangelios
+​	El propósito de esta sección es mencionar de dónde sacamos nosotros información sobre el mundo en el que fueron escritos los evangelios.
+#### La Arqueología
+​	El autor enseña varias de las fuentes arqueológicas del nuevo y viejo testamento, y habla sobre lo que entendemos o esperamos entender de estos descubrimientos, como la cuestión de la Helenización de Galilea y Judea y la población de estas ciudades.
+#### La Sociología y las Ciencias Sociales
+​​	Las ciencias sociales son un aliado valioso para comprender el mundo de los evangelios, y sus distintas disciplinas ofrecen perspectivas complementarias.
+​	La sociología estudia fenómenos que caracterizaron la sociedad romana, como la Pax Romana, la ocupación de Palestina o el sistema de patronaje. Dentro de ella, la Historia Social interpreta los eventos a la luz del impacto que las transiciones históricas tuvieron en las comunidades, como el intercambio poblacional entre judíos y gentiles. La Sociología del Conocimiento, por su parte, examina los supuestos que una cultura da por sentados y cómo estos se relacionan con sus formas de organización social; el evangelio de Juan, por ejemplo, podría estar invitando al lector a abandonar sus preconcepciones y descubrir una forma radicalmente distinta de entender la realidad. Finalmente, la Antropología Cultural emplea modelos comparativos para entender el propósito de un fenómeno cultural a partir de lo que sabemos sobre otras culturas, situando cada práctica dentro de un marco más amplio.

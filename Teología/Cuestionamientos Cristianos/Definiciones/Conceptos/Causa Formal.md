@@ -1,0 +1,1 @@
+Se trata de aquello que actualiza la materia y determina la esencia del ente.

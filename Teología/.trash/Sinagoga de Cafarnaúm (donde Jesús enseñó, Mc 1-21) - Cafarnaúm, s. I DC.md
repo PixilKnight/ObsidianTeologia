@@ -1,0 +1,9 @@
+También conocida como la sinagoga blanca, es un antiguo templo judío y actual yacimiento arqueológico en Cafarnaúm, a orillas del mar de Galilea, al norte de Israel. Una sinagoga del siglo IV se construyó sobre la base de una sinagoga anterior, del siglo I, que se cree que fue el lugar donde predicó Jesús de Nazaret.
+
+Cafarnaúm fue un antiguo poblado pesquero a orillas del mar de Galilea, fundado por los hasmoneos en el siglo I a. C. No tenemos datos sobre poblaciones anteriores en el lugar, aunque se han hallado restos de sílex del Paleolítico y muros y pavimentos de la Edad del Bronce. Se cree que en su apogeo tenía una población de 1500 personas, la mayoría pescadores.
+
+Cuando fue descubierta en 1838 por Edward Robinson, no vivía nadie en el lugar y este formaba parte del entorno natural. Tres décadas después, en 1866, se identificaron los restos de una gran sinagoga de piedras blancas, de ahí su nombre.
+
+La sinagoga que se encuentra debajo de aquella construida por los bizantinos está hecha de basalto negro, el mismo material del que está construido el resto de Cafarnaúm del siglo I, con cerámica que establece claramente una fecha del siglo I para ese piso. El desalineamiento entre el muro de basalto y el de caliza indica que no fue construido como un cimiento, sino que es el resto de un edificio distinto y además más antiguo.
+
+La ubicación y la datación coinciden con Cafarnaúm, que los evangelios nombran explícitamente como el pueblo base del ministerio de Jesús, y donde efectivamente hay una sinagoga en el relato (Mc 1, 21-28; Lc 4, 31-37; Jn 6, 59), a una corta distancia de la supuesta casa de Pedro.

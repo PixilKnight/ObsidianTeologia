@@ -1,0 +1,1 @@
+El principio extrínseco que actualiza lo que está en potencia y causa el ser del efecto. Aquello por lo cual algo comienza a ser, el agente que produce el efecto.

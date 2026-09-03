@@ -1,0 +1,1 @@
+El acto de existir. Recibido en la esencia por la acción causal de Dios, directa o indirectamente.

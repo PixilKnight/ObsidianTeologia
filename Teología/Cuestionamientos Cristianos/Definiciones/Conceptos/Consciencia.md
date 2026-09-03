@@ -1,0 +1,1 @@
+El acto por el cual el agente se conoce a sí mismo en sus actos cognoscitivos y volitivos, y juzga la rectitud de sus propios actos.

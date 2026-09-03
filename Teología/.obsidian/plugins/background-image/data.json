@@ -1,0 +1,11 @@
+{
+  "imageUrl": "https://i.imgur.com/keXbu2i.jpeg",
+  "darkImageUrl": "https://i.imgur.com/keXbu2i.jpeg",
+  "opacity": 0.5,
+  "bluriness": "5px",
+  "inputContrast": false,
+  "position": "center",
+  "size": "cover",
+  "wholeWindow": false,
+  "excludedPaths": "Home.md"
+}

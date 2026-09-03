@@ -1,0 +1,1 @@
+La recepción limitada de una perfección que existe plenamente en otro. Participar significa tener algo no por esencia propia, si no por derivación de otro que lo posee de modo pleno.

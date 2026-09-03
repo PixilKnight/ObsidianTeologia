@@ -1,0 +1,1 @@
+La esencia. Aquello por lo cual una cosa es lo que es: su naturaleza definible y constituida por la forma y la materia en los entes materiales, mientras que la existencia es lo que la actualiza y la vuelve realidad.

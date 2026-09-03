@@ -1,0 +1,2 @@
+«Mente»
+Principio inmaterial del conocimiento y de la vida intelectual, que incluye las facultades de entender y querer. La mente es inmaterial, reflexiva en tanto que puede conocerse a sí misma y universal, en tanto que capta esencias y no solo datos sensibles. Integra intelecto y voluntad.

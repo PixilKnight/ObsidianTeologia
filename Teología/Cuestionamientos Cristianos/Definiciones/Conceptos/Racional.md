@@ -1,0 +1,1 @@
+Dícese de algo que está basado en, gobernado por o es conforme a la razón o la lógica.

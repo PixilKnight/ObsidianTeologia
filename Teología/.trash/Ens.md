@@ -1,0 +1,1 @@
+Ente. Representa la realidad concreta, todo aquello que es, definida como la unión o relación entre esencia (qué es) y existencia (que es). No distingue entre material e inmaterial. Ente es todo aquello que participa de la existencia, todo aquello que tenga el ser.

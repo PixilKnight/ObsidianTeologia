@@ -1,0 +1,15 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "custom",
+    "custom": "a3be8c-eccc8c-d08871-c0616a-b48fad-88c1d0-82a1c1-5e81ad-4c566a-2e3440"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {},
+  "tagColors": {},
+  "_version": 4
+}

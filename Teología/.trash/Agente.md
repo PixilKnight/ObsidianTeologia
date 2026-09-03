@@ -1,0 +1,1 @@
+El principio de acción que actualiza lo que está en potencia y causa un efecto. Aquello que obra y produce un efecto.

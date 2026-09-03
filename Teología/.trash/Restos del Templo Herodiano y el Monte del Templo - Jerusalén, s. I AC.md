@@ -1,0 +1,5 @@
+El Segundo Templo fue el sagrado templo de Jerusalén, erigido en el Monte del Templo de la ciudad santa de Jerusalén, entre los años c. 515 a. C. y c. 70. Dio nombre al período del Segundo Templo definiéndolo y erigiéndose como símbolo fundamental de la identidad judía.
+
+El Segundo Templo servía como principal lugar de culto, sacrificio ritual y reunión comunitaria para el pueblo judío, entre los que atraía regularmente peregrinos para las tres fiestas de peregrinación: Pésaj (celebración de la liberación del pueblo hebreo de la esclavitud en Egipto), Shavuot (celebración que conmemora la entrega de las tablas de la ley por parte de Dios a Moisés) y Sucot (celebración que rememora las vicisitudes del pueblo israelita durante su deambular por el desierto).
+
+El templo fue destruido en el año 66 d. C. cuando la población Judía se rebeló contra el Imperio romano. Las legiones romanas al mando del emperador Tito lo destruyeron en su mayoría, junto a gran parte de Jerusalén. No arrasó totalmente las torres y dejaron la muralla más occidental.

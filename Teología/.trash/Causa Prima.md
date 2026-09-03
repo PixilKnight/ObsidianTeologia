@@ -1,0 +1,2 @@
+«Causa Primera»
+La primera causa del ser de todas las cosas, que no recibe su causalidad de otra. Es aquello que causa sin ser causado, y de lo cual dependen todas las demás causas. A nivel fundamental es única, eterna y Dios.

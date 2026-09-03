@@ -1,0 +1,1 @@
+La condición de aquello que no tiene en sí la razón de su ser y, por tanto, puede existir o no existir.

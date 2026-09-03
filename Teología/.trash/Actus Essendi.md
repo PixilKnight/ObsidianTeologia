@@ -1,0 +1,2 @@
+«Acto de ser»
+Esta frase latina se refiere a lo que Aquino consideraba el principio metafísico más fundamental: el acto por el cual algo existe realmente. Tomás distingue entre la esencia de un ser y su existencia, y es el Actus Essendi aquello que hace que cualquier cosa creada sea real, en lugar de meramente posible.

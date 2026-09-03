@@ -1,0 +1,17 @@
+En metodología científica y filosófica, el principio de parsimonia es el criterio que indica que, en igualdad de condiciones, la explicación más sencilla suele ser la correcta. Sugiere evitar suposiciones innecesarias para resolver un problema.
+
+Este principio se le atribuye al fraile franciscano y escolástico Guillermo de Ockham (1285-1347), aunque hay indicios de que este principio puede rastrarse hasta al menos Aristóteles. Según Guillermo, «en igualdad de condiciones, la explicación más simple suele ser la más probable». Esto implica que, cuando dos teorías en igualdad de condiciones tienen las mismas consecuencias, la teoría más simple tiene más probabilidades de ser correcta que la compleja.
+
+En la ciencia, este principio se utiliza como regla general para guiar a los científicos en el desarrollo de modelos teóricos. Este principio no se postula como irrefutable y ciertamente no es un resultado científico. «La explicación más simple y suficiente es la más probable, mas no necesariamente la verdadera», según el principio de Ockham. En ciertas ocasiones, la opción compleja puede ser la correcta. Lo que ha de tenerse en cuenta para medir la simplicidad, sin embargo, es una cuestión ambigua. Quizás la propuesta más conocida sea la que sugirió el mismo Ockham: cuando dos teorías tienen las mismas consecuencias, debe preferirse la teoría que postule la menor cantidad de (tipos de) entidades. Otra manera de medir la simplicidad, sin embargo, podría ser por el número de axiomas de la teoría.
+
+_Pluralitas non est ponenda sine necessitate_ (La pluralidad no se debe postular sin necesidad): Cuando se ofrecen dos o más explicaciones de un fenómeno, es preferible la explicación **completa** más simple; es decir, no deben multiplicarse las entidades sin necesidad.
+
+El término apareció como "Navaja de Ockham" en el siglo XVII, y con este mismo se expresaba que mediante este principio, Ockham «afeitaba como una navaja las barbas de [Platón](https://es.wikipedia.org/wiki/Plat%C3%B3n "Platón")».
+
+Porque, ¿qué nos hace pensar que el universo es simple y ordenado, en lugar de complejo y caótico? ¿Y si el universo y la realidad misma tuvieran una estructura fractal? ¿Existe algún tipo de razón objetiva para pensar que una teoría así tiene más probabilidades de ser cierta que una teoría menos simple?
+
+Su forma moderna es la medida de complejidad de Kolmogórov. No existe una medida simple de simplicidad. Dadas tres explicaciones, no podemos estar seguros de cuál es la más simple. No es posible aplicar las matemáticas para determinar la validez de un juicio.
+
+El primer requerimiento para una teoría es que funcione, que sus predicciones sean correctas y que no haya sido falsada. La navaja de Ockham se utiliza para distinguir entre teorías que se supone que ya han pasado estas pruebas y aquellas que se encuentran igualmente soportadas por las evidencias. Las consideraciones sobre parsimonia y elegancia tiran en direcciones diferentes. Postular entidades extra puede permitir que una teoría sea formulada de forma más simple, mientras que reducir la ontología (semántica) de una teoría puede ser únicamente posible a cambio de pagar el precio de que sintácticamente sea más compleja.
+
+Incluso Albert Einstein también aportó su propia anti navaja de Ockham: «A duras penas se puede negar que el objetivo supremo de toda teoría es convertir los elementos básicos en simples y tan pocos como sea posible, pero sin tener que rendirse a la adecuada representación de un solo dato de la experiencia. Simple, pero no más simple» (1934).

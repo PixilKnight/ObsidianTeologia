@@ -1,0 +1,1 @@
+La naturaleza es la esencia en cuanto principio de operaciones. Dicta cómo actúa el ente en virtud de lo que es.

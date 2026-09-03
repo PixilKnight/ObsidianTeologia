@@ -1,0 +1,7 @@
+Una antigua embarcación de pesca del siglo primero, descubierta en 1986 en la costa noroeste del mar de Galilea, al norte de Israel. Obviamente no existen indicios de que haya sido usada por Jesús u otra persona específica.
+
+Se trata de los restos del casco de una embarcación de pesca, de 8,2 metros de largo, 2,3 metros de ancho y una altura máxima de 1,3 metros. Tiene sitio para 5 a 10 personas. Este modelo se construyó en el Levante mediterráneo entre el año 100 a. C. y 200 d. C. y su estructura de baja altura permitía la pesca cerca de la costa, donde se encuentran los frezaderos de algunas especies (donde ponen los huevos y los fertilizan). La barca presenta un encaje para un mástil y espacios para cuatro remadores. Está principalmente hecha de cedro. 
+
+Dentro del barco se encontraron piezas de alfarería (una cacerola y una lámpara, ambas de arcilla, y algunos otros fragmentos), además de clavos, que, junto con las técnicas de construcción del casco, lo sitúa entre el 50 a. C. y 50 d. C. A su vez, la datación por radiocarbono ha arrojado resultados de entre 120 a. C. y 40 d. C., con más probabilidad hacia la media de este lapso. 
+
+Por otra parte, según la arqueóloga Orna Cohen, experta en conservación de objetos antiguos, la forma en la que algunas piezas fueron reusadas en la estructura, sugiere que estuvo en uso hacia el final del citado intervalo, es decir que pudo haber coincidido con la estancia de Jesús en la región.

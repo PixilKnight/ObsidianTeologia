@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb1e31bf0fabf61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add6d3bd13d9a859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inferencia a la Mejor Explicación"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a846e314e918eb5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "467c421cdbb51ac7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "b0da57623a234c4b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "fb18e85664e6e0f2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "661fa0a00c69d936",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "ee56a776a5e4a439",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "64fe7d17b32e014e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d1ff4539527a427",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "dc16b5dc1c27a2eb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "89557bbe33272846",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      },
+      {
+        "id": "a11cae4f6470fbfa",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "system3-relay:Relay": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "add6d3bd13d9a859",
+  "lastOpenFiles": [
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Índice de Argumentos Cristianos.md",
+    "Home.md",
+    "Cuestionamientos Cristianos/Apologética/Argumentos Cristianos/Argumentos/Inferencia a la Mejor Explicación.md"
+  ]
+}

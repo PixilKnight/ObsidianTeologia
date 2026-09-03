@@ -1,0 +1,1 @@
+Facultad apetitiva racional por la cual el agente tiende al bien conocido por el intelecto.

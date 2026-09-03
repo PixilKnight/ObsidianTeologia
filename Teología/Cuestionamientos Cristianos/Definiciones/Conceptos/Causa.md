@@ -1,0 +1,1 @@
+Para Tomás de Aquino, la causa se entiende bajo la teoría aristotélica de las cuatro causas: hay causa material, formal, eficiente y final. También se puede hablar de causa primera.

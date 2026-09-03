@@ -1,0 +1,1 @@
+El fin que mueve al agente a obrar y en orden al cual se produce el efecto. Es externo a las cosas, tiene primacía en intención y se identifica con el bien.

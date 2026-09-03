@@ -1,0 +1,1 @@
+La perfección absoluta de Dios. Sus atributos o sus operaciones son idénticos a su esencia, y esta necesita su existencia. Los seres creados tienen potencialidad y actualidad, perfección e imperfección. Solamente Dios es al mismo tiempo todo lo que puede ser, está completo, perfecto.

@@ -1,0 +1,2 @@
+«Intelecto Divino»
+Es el acto puro, eterno e inmutable de conocimiento de Dios, siendo causa y fundamento de toda verdad y ser creado. Dios no conoce a través de conceptos adquiridos, si no que conoce todas las cosas en su propia esencia divina, siendo la fuente del intelecto agente humano.

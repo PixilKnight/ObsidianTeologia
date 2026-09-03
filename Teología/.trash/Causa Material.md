@@ -1,0 +1,1 @@
+La causa material es el principio intrínseco del que el ente está hecho, que se encuentra en potencia respecto de la forma y constituye el sustrato del compuesto sustancial.
