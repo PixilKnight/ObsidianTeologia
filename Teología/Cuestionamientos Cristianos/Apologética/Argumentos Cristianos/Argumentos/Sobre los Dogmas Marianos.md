@@ -351,7 +351,7 @@ Se ha argumentado a partir de Juan 19, donde Jesús confía a María al discípu
 Algunos han argumentado que María y José no podrían haber tenido un matrimonio normal si María hubiera permanecido virgen perpetua; sin embargo, algunos católicos han argumentado que hay pruebas de que el celibato dentro del matrimonio ya era practicado por la comunidad de Qumrán y otros judíos de la época. El sacerdote católico y estudioso del Nuevo Testamento John P. Meier sostiene que, aunque la preponderancia de las pruebas bíblicas indica que Jesús tenía hermanos, las pruebas no son lo suficientemente concluyentes como para refutar la virginidad perpetua de María.
 
 ### Edad Media
-En la Edad Media, la virginidad perpetua de María era algo comúnmente aceptado;[108] sin embargo, los paulicianos negaban su virginidad perpetua, llegando incluso a afirmar que Cristo le había negado la bendición.
+En la Edad Media, la virginidad perpetua de María era algo comúnmente aceptado; sin embargo, los paulicianos negaban su virginidad perpetua, llegando incluso a afirmar que Cristo le había negado la bendición.
 
 Debido a su teología de carácter dualista y adopcionista, los paulicianos afirmaban que Jesús no había nacido _de_ María en el sentido biológico tradicional, sino que simplemente había pasado a través de ella como "a través de un canal". Al no considerarla la verdadera "Madre de Dios" (Theotokos), negaban su veneración, sus títulos y su pureza perpetua.
 
@@ -390,3 +390,84 @@ Desde el punto de vista del derecho romano y bizantino, la estrategia judicial m
 
 ### Reforma protestante
 
+La Reforma protestante rechazó el estatus moral especial del celibato perpetuo. Como resultado, se ensalzaron el matrimonio y la paternidad, y María y José fueron considerados una pareja casada normal.También afirmó que solo la Biblia era la fuente fundamental de autoridad en lo que respecta a la palabra de Dios (sola scriptura).
+
+La virginidad perpetua de María fue defendida por Martín Lutero (que la nombra siempre virgen en los Artículos de Smalcald, una confesión de fe luterana escrita en 1537), Huldrych Zwingli, Thomas Cranmer, Wollebius, Bullinger, John Wycliffe y más tarde líderes protestantes como John Wesley, cofundador del metodismo.
+
+En la fe evangélica luterana, además de lo que se enseña en los Artículos de Esmalcalda, la Fórmula de la Concordia defiende la virginidad perpetua de María. El teólogo luterano Melanchthon criticó duramente a Osiander por negar la virginidad perpetua de María. Por ello, muchos teólogos luteranos han enseñado la virginidad perpetua de María.
+
+Con respecto a la tradición reformada (denominaciones reformadas continentales, presbiterianas, anglicanas reformadas y congregacionalistas), la opinión de Juan Calvino era más ambigua, ya que creía que era imposible saber qué le sucedió a María después del nacimiento de Jesús. Sin embargo, Juan Calvino argumentó que “'Mateo 1:25”', utilizado por Helvidio para atacar la virginidad perpetua de María, no enseña que María tuviera otros hijos. Otros calvinistas afirmaron la virginidad perpetua de María, incluso en la Segunda Confesión Helvética, donde se afirma que María era la «siempre virgen María», y en las notas de la Biblia de Ginebra. Teodoro de Beza, un destacado calvinista de los primeros tiempos, incluyó la virginidad perpetua de María en una lista de acuerdos entre el calvinismo y la Iglesia católica. Algunos reformadores defendieron la doctrina para contrarrestar a los reformadores más radicales que cuestionaban la divinidad de Cristo; La virginidad perpetua de María garantizaba la Encarnación de Cristo a pesar de los desafíos a sus fundamentos bíblicos. Los protestantes no conformistas modernos, como los Hermanos de Plymouth, han rechazado en gran medida la virginidad perpetua de María basándose en la «sola scriptura», y rara vez ha aparecido explícitamente en confesiones o declaraciones doctrinales. aunque la virginidad perpetua de María sigue siendo una creencia común en el luteranismo y el anglicanismo.
+
+Entre los anabaptistas, Hubmaier nunca abandonó su creencia en la virginidad perpetua de María y continuó estimando a María como theotokos («madre de Dios»). Estas dos posturas doctrinales se abordan individualmente en los artículos nueve y diez, respectivamente, de la obra de Hubmaier, “'Apologia”'.
+
+> Fuente:
+> [Blessed One: Protestant Perspectives on Mary - Beverly Roberts Gaventa, Cynthia L. Rigby ](https://books.google.com.ar/books?id=VO2--T4-TDQC&redir_esc=y)
+> [Jesus Christ: Savior and Lord De Donald G. Bloesch](https://books.google.com.ar/books?id=SGtx3f6hBWoC&dq=Geneva+bible+perpetual+virginity&pg=PA87&redir_esc=y#v=onepage&q=Geneva%20bible%20perpetual%20virginity&f=false)
+> [Mary for Protestants: A Catholic’s Reflection on the Meaning of Mary the Mother of God](https://books.google.com.ar/books?id=ONqjDwAAQBAJ&redir_esc=y)
+> [The One Mediator, the saints, and Mary](https://archive.org/details/onemediatorsaint0000unse/page/n5/mode/2up)
+> [Mary and the Protestants](https://digitalcommons.csbsju.edu/saint_johns_abbey_pubs/42/)
+> [Jews, Judaism, and the Reformation in Sixteenth-Century Germany](https://books.google.com.ar/books?id=YoZSEAAAQBAJ&dq=Melanchthon+perpetual+virginity&pg=PA114&redir_esc=y#v=onepage&q&f=false)
+> [What Does It Mean to Be Catholic?](https://books.google.com.ar/books?id=9icSCAAAQBAJ&dq=john+Calvin+helvidius&pg=PA123&redir_esc=y)
+> [Encyclopedia of the Reformed Faith - Donald K. McKim, David F. Wright](https://books.google.com.ar/books?id=MJPsgwN789gC&dq=Geneva+bible+perpetual+virginity&redir_esc=y)
+> [THE SECOND HELVETIC CONFESSION ](https://www.ccel.org/creeds/helvetic.htm)
+> [Reformed theology and visual culture : the Protestant imagination from Calvin to Edwards by Dyrness, William A](https://archive.org/details/reformedtheology0000dyrn)
+> [All things made new : the Reformation and its legacy by MacCulloch, Diarmaid, author](https://archive.org/details/allthingsmadenew0000macc_s1c9)
+> [The Epistle of James By H A Ironside](https://plymouthbrethren.org/article/6442)
+> [Mary: A Catholic Evangelical Debate - Dwight Longenecker, David Gustafson](https://books.google.com.ar/books?id=sqJ9hi4epJYC&dq=Anglicanism+perpetual+virginity&redir_esc=y)
+> _The American Lutheran, Volume 49_ (en inglés). American Lutheran Publicity Bureau. 1966. p. 16. «While the perpetual virginity of Mary is held as a pious opinion by many Lutheran confessors, it is not regarded as binding teaching of the Scriptures.» - Original a encontrar.
+
+
+### Argumento Biblico.
+
+Cuando el ángel Gabriel le anuncia a María que concebirá un hijo, ella responde: **"¿Cómo será esto, puesto que no conozco varón?"** (o "no tengo relaciones con ningún hombre").
+
+
+| Lucas 1:34                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------- |
+| 34 "María respondió al ángel: —¿Cómo será esto, puesto que no conozco varón?"<br><br>- Biblia de Jerusalén. |
+
+
+En ese momento, María ya estaba desposada (comprometida legalmente) con José. Si ella planeaba tener un matrimonio convencional, la respuesta natural a la promesa de un hijo habría sido asumir que lo concebiría con su futuro esposo una vez que vivieran juntos. El hecho de que ella pregunte "¿cómo será esto?" indica, según teólogos como San Agustín, que María había hecho un voto previo de virginidad perpetua y no planeaba tener relaciones íntimas en su matrimonio con José.
+
+Estando en la cruz, Jesús confía el cuidado de su madre al apóstol Juan: **"Mujer, he ahí tu hijo. Después dijo al discípulo: He ahí tu madre"**.
+
+
+| Juan 19:26-27                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26 "Jesús, viendo a su madre y junto a ella al discípulo a quien amaba, dice a su madre: «Mujer, ahí tienes a tu hijo.»"<br><br>27 "Luego dice al discípulo: «Ahí tienes a tu madre.» Y desde aquella hora el discípulo la acogió en su casa."<br><br>- Biblia de Jerusalén. |
+
+
+En la cultura judía del siglo I, si una mujer enviudaba, sus otros hijos biológicos tenían el deber estricto de cuidarla. Si Jesús hubiera tenido hermanos de sangre menores que él, habría sido una grave falta de respeto a la ley y a la familia entregar a su madre a un extraño (Juan). Este acto de Jesús solo tiene sentido lógico y cultural si Él era el único hijo de María y ella estaba a punto de quedar sola.
+
+Los Evangelios mencionan a los "hermanos" de Jesús, como Santiago, José, Judas y Simón (Marcos 6:3).
+
+| Marcos 6:3                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 "¿No es este el carpintero, el hijo de María, hermano de Santiago y José y Judas y Simón? Y sus hermanas ¿no viven con nosotros aquí?». Y se escandalizaban a cuenta de él"<br><br>- Biblia de Jerusalén. |
+
+El griego del Nuevo Testamento utiliza la palabra _adelphos_ (hermano), pero los judíos de la época hablaban arameo y hebreo, idiomas que carecían de una palabra específica para "primo" o "pariente cercano". Por lo tanto, usaban la palabra "hermano" para referirse a parientes de la misma generación (por ejemplo, en Génesis 13:8 y 14:14, Abraham y Lot son llamados "hermanos", aunque Lot era su sobrino).
+    
+La Biblia misma da pistas de que estos "hermanos" no eran hijos de la Virgen María. En Mateo 27:56 y Juan 19:25 se menciona que al pie de la cruz estaba "María, madre de Jacobo Santiago y de José", pero se le identifica como "la mujer de Cleofas" o la "hermana" (pariente) de la madre de Jesús, no como la Virgen María.
+
+El Evangelio de Mateo dice que José "no la conoció no tuvo relaciones con ella hasta que dio a luz a su hijo primogénito". Quienes rechazan la virginidad perpetua argumentan que la palabra "hasta" implica que _después_ sí tuvieron relaciones.
+
+En el uso del hebreo y griego bíblico, la palabra "hasta" (_heos_ en griego) simplemente indica que una acción no ocurrió hasta un punto determinado, sin afirmar ni negar lo que ocurrió después. Por ejemplo:
+    
+
+| 2 Samuel 6:23                                                                                                                                      | 1 Corintios 15:25                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| _"Mical, hija de Saúl, no tuvo hijos hasta el día de su muerte"_. Esto no significa que tuvo hijos después de morir.<br><br>- Biblia de Jerusalén. | _"Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies"_.<br><br>- Biblia de Jerusalén. |
+
+Esto no significa que Cristo dejará de reinar después de vencer a sus enemigos. Mateo solo buscaba enfatizar que Jesús no fue concebido por intervención de José, no dar un reporte sobre la vida matrimonial posterior de la pareja.
+
+Lucas llama a Jesús el "hijo primogénito". Algunos asumen que si hay un "primero", debe haber un segundo.
+
+ "Primogénito" (_prototokos_) no es solo un orden de nacimiento, sino un **título legal y religioso** bajo la Ley de Moisés. En Éxodo 13:2, Dios ordena: 
+
+| Éxodo 13:2                                                                           |
+| ------------------------------------------------------------------------------------ |
+| "Conságrame todo primogénito, el que abre la matriz"_.<br><br>- Biblia de Jerusalén. |
+ Un niño recibía el título, los derechos y la consagración de "primogénito" en el instante en que nacía, independientemente de si la madre volvía a tener hijos en el futuro o no. Un hijo único era legalmente el primogénito.
+
+
+## **3 - Inmaculada Concepción**:
