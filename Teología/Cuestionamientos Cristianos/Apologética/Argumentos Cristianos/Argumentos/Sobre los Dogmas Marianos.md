@@ -760,5 +760,151 @@ La constitución apostólica menciona a varios Santos Padres, teólogos y Doctor
 
 
 > Fuente:
-> **[Denzinger 3899**, Definición de la Asunción de la Bienaventurada Virgen María (1)](https://www.clerus.org/bibliaclerusonline/es/fgn.htm#dki)
-> [**_MUNIFICENTISSIMUS DEUS](https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html)
+> [Denzinger 3899, Definición de la Asunción de la Bienaventurada Virgen María (1)](https://www.clerus.org/bibliaclerusonline/es/fgn.htm#dki)
+> [_MUNIFICENTISSIMUS DEUS](https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html)
+
+## Sobre la Santidad Plena de la Virgen María.
+
+La Santidad Plena de la Virgen María no es un atributo aislado, sino la consecuencia lógica y la arquitectura teológica final que se erige al sintetizar los cuatro dogmas marianos. En la teología sistemática, estos dogmas no operan como eventos separados, sino como un continuo biológico y espiritual que explica por qué María alcanzó la cumbre de la perfección humana posible.
+
+Para desarrollar esta construcción, la argumentación debe centrarse en cómo cada dogma aporta un pilar ontológico (del ser) a su santidad absoluta: la santidad entendida tanto como **ausencia total de pecado** como **plenitud de unión con Dios**.
+
+El dogma de María como _Theotokos_ (Madre de Dios) es el centro de gravedad de toda la mariología; los demás dogmas y su santidad derivan de este hecho.
+
+ **La exigencia ontológica:** La santidad de María es proporcional a su vocación. Para que el Verbo Divino (la santidad infinita) asumiera carne humana, requería un vaso terrenal proporcionado a su majestad. Dios no podía habitar ni tomar su naturaleza humana de una matriz corrompida material o espiritualmente.
+ 
+ **Unión transformante:** En la teología, la cercanía a Dios santifica (como el fuego calienta el hierro). Nadie en la historia de la salvación tuvo una cercanía mayor a Dios que aquella que le dio su propio material genético y lo llevó en su vientre durante nueve meses. Su santidad es el requisito y el resultado directo de la Encarnación.
+
+Si la Maternidad Divina es el motivo de su santidad, la Inmaculada Concepción es la ejecución práctica divina que la hace posible.
+
+**El estado de Gracia Original:** Al ser preservada del pecado original, María fue dotada desde el primer instante de su existencia con la plenitud de la gracia santificante (_kecharitomene_). Esto significa que en ella nunca existió la "concupiscencia" (la inclinación natural al pecado que todos los humanos heredamos).
+    
+**Libertad perfecta:** Al no tener inclinación al mal, la voluntad de María era supremamente libre. Su santidad no fue un automatismo divino, sino que, al tener una voluntad perfectamente sana, cada decisión de su vida fue una adhesión perfecta y sin fisuras a la voluntad de Dios (evidenciada en el _Fiat_: "Hágase en mí según tu palabra").
+
+La virginidad mariana (antes, durante y después del parto) excede lo puramente biológico; es el signo visible de una condición interior de santidad radical.
+
+**Indivisión del corazón:** En términos teológicos, la santidad implica estar "separado para Dios". La Virginidad Perpetua demuestra que el alma y el cuerpo de María nunca estuvieron divididos ni entregados a otro propósito terrenal.
+    
+**Cierre a la corrupción:** Así como la matriz permaneció intacta, su alma permaneció impermeable a la corrupción del pecado personal. La virginidad física es el correlato externo de su pureza espiritual absoluta. Es la entrega de todo su ser (espíritu, alma y cuerpo) de manera exclusiva al plan redentor.
+
+La Asunción en cuerpo y alma al cielo es la prueba definitiva y la consumación física de su Santidad Plena.
+
+**La victoria sobre el salario del pecado:** Según la teología paulina, la muerte y la corrupción del cuerpo son el "salario del pecado" (Romanos 6:23). Si la construcción lógica sostiene que María no tuvo pecado original (Inmaculada) ni pecado personal (toda santa por su voluntad adherida a Dios), entonces su cuerpo no podía sufrir las consecuencias del pecado: la putrefacción en el sepulcro.
+    
+**La glorificación de la materia santa:** La Asunción demuestra que su santidad no fue solo espiritual. El cuerpo que fue instrumento de la Encarnación y que se mantuvo inmaculado y virginal compartía la misma santidad que su alma. Por lo tanto, fue glorificado inmediatamente sin esperar el juicio final.
+
+Al unir estas cuatro verdades, la "Santidad Plena" de María se explica como una obra arquitectónica perfecta de la gracia divina. Dios la diseñó sin mancha desde el principio (Inmaculada), la consagró totalmente a través del tiempo (Virgen), la unió a Sí mismo de la manera más íntima posible (Madre) y, como resultado inevitable de esa santidad inquebrantable, la libró de la corrupción de la muerte (Asunta). Su santidad es, en definitiva, el reflejo más perfecto y no distorsionado de la santidad de Cristo en una pura criatura.
+
+La argumentación bíblica católica para la Santidad Plena de María (su impecabilidad y llenura total de gracia durante toda su vida) se construye sobre la exégesis de los textos de la Anunciación y la Visitación, junto con la tipología del Antiguo Testamento que prefigura una pureza inquebrantable.
+
+**La transformación absoluta (Lucas 1:28):** El núcleo de la santidad bíblica mariana reside en el título que le otorga el arcángel Gabriel: _Kecharitomene_ ("Llena de gracia"). A diferencia de otros personajes bíblicos que reciben gracia transitoria para una misión (como Esteban en Hechos 6:8, descrito con el adjetivo _pleres charitos_), el término usado para María es un participio perfecto pasivo. Bíblica y gramaticalmente, indica que ella ya ha sido completamente transformada por la gracia de Dios en el pasado, y esa condición de plenitud permanece inalterable en el presente. La teología católica argumenta que donde hay una plenitud absoluta y permanente de la gracia divina, es ontológicamente imposible la coexistencia de cualquier pecado personal.
+
+| Lucas 1:28                                                                                                                                                                        | Hechos 6:8                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 28 "Y entrando, le dijo: "Alégrate, llena de gracia, el Señor está contigo.Y entrando, le dijo: "Alégrate, llena de gracia, el Señor está contigo."<br><br>- Biblia de Jerusalén. | 8 "Esteban, lleno de gracia y de poder, realizaba entre el pueblo grandes prodigios y señales".<br><br>- Biblia de Jerusalén. |
+
+
+**La Bendición Suprema (Lucas 1:42):** Bajo la inspiración del Espíritu Santo, Isabel exclama: _"¡Bendita tú entre las mujeres, y bendito el fruto de tu vientre!"_. En el modismo hebreo subyacente, que carece de superlativos directos, decir "bendita entre las mujeres" equivale a proclamarla "la más bendita de todas las mujeres". Además, el paralelismo sintáctico vincula indisolublemente la bendición de María con la bendición de Cristo ("bendita tú... y bendito el fruto"). Para la exégesis católica, asociar la bendición de la madre en un mismo nivel exclamativo con la santidad infinita del Hijo exige una santidad singular e incontaminada en la mujer que lo concibe.
+
+
+| Lucas 1:42                                                                                         |
+| -------------------------------------------------------------------------------------------------- |
+| 42 "¡Bendita tú entre las mujeres y bendito el fruto de tu vientre!"<br><br>- Biblia de Jerusalén. |
+
+
+**El Protoevangelio (Génesis 3:15):** En la declaración de Dios a la serpiente se establece un decreto: _"Pondré enemistad entre ti y la mujer, y entre tu descendencia y su descendencia"_. La santidad plena de María (la ausencia de todo pecado personal a lo largo de su vida) se deduce de la naturaleza de esta enemistad. Si María hubiera cometido cualquier pecado personal, habría estado, al menos temporalmente, sometida al dominio y la voluntad de la serpiente. Para que la profecía bíblica de una enemistad _total y perpetua_ (idéntica a la que existe entre Cristo y el mal) se cumpla con exactitud, la Mujer debe poseer una santidad inquebrantable, manteniéndose en oposición absoluta a la oscuridad durante toda su existencia.
+
+| Génesis 3:15                                                                                                                      |     |     |
+| --------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| 15 "Enemistad pondré entre ti y la mujer, y entre tu linaje y su linaje: él te pisará la cabeza mientras acechas tú su calcañar". |     |     |
+
+
+
+**La pureza del Arca (Éxodo 25 y 2 Samuel 6):** El mandato bíblico para construir el Arca de la Antigua Alianza exigía materiales incorruptibles (madera de acacia) y pureza absoluta (recubierta de oro puro por dentro y por fuera). La santidad del Arca era tan radical que tocarla sin consagración provocaba la muerte fulminante (como le ocurre a Uza en 2 Samuel 6:7). Lucas construye deliberadamente el relato de la Visitación de María (Lucas 1:39-56) utilizando el mismo vocabulario y estructura espacial del traslado del Arca por David (2 Samuel 6). Si Dios exigió un nivel de santidad material extremo, libre de toda impureza interna y externa, para el cofre que contenía las tablas de piedra, la argumentación sostiene que el receptáculo vivo (María) que contuvo a la Palabra de Dios encarnada debía poseer una santidad espiritual plena, perfecta y superior a la del Arca antigua.
+    
+    
+
+| Éxodo 25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2 Samuel 6:7                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 10 Harás un arca de madera de acacia de dos codos y medio de largo, codo y medio de ancho y codo y medio de alto. <br><br>11 La revestirás de oro puro; por dentro y por fuera la revestirás; y además pondrás en su derredor una moldura de oro. <br><br>12 Fundirás para ella cuatro anillas de oro, que pondrás en sus cuatro pies, dos anillas a un costado, y dos anillas al otro. <br><br>13 Harás también varales de madera de acacia, que revestirás de oro, <br><br>14 y los pasarás por las anillas de los costados del arca, para transportarla. <br><br>15 Los varales deben quedar en las anillas del arca, y no se sacarán de allí. <br><br>16 En el arca pondrás el Testimonio que yo te voy a dar. <br><br>17 Harás asimismo uno propiciatorio de oro puro, de dos codos y medio de largo y codo y medio de ancho. <br><br>18 Harás, además, dos querubines de oro macizo; los harás en los dos extremos del propiciatorio: <br><br>19 haz el primer querubín en un extremo y el segundo en el otro. Los querubines formarán un cuerpo con el propiciatorio, en sus dos extremos. <br><br>20 Estarán con las alas extendidas por encima, cubriendo con ellas el propiciatorio, uno frente al otro, con las caras vueltas hacia el propiciatorio. <br><br>21 Pondrás el propiciatorio encima del arca; y pondrás dentro del arca el Testimonio que yo te daré. <br><br>22 Allí me encontraré contigo; desde encima del propiciatorio, de en medio de los dos querubines colocados sobre el arca del Testimonio, te comunicaré todo lo que haya de ordenarte para los israelitas.                                                                     | 7 "Entonces la ira de Yahveh se encendió contra Uzzá: allí mismo le hirió Dios por este atrevimiento y murió allí junto al arca de Dios." |
+| **Lucas 1:39-56**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                           |
+| 39 "En aquellos días, se puso en camino María y se fue con prontitud a la región montañosa, a una ciudad de Judá;"<br><br>40 "entró en casa de Zacarías y saludó a Isabel."<br><br>41 "En cuanto oyó Isabel el saludo de María, saltó de gozo el niño en su seno, Isabel quedó llena de Espíritu Santo" <br><br>42 "y exclamó a gritos: 'Bendita tú entre las mujeres y bendito el fruto de tu seno;" <br><br>43 "y ¿de dónde a mí que venga a verme la madre de mi Señor?" <br><br>44 "Porque apenas llegó a mis oídos la voz de tu saludo, saltó de gozo el niño en mi seno." <br><br>45 "¡Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor!'"<br><br>46 "Y dijo María: 'Alaba mi alma la grandeza del Señor"<br><br>47 "y mi espíritu se alegra en Dios mi salvador" <br><br>48 "porque ha puesto los ojos en la pequeñez de su esclava, por eso desde ahora todas las generaciones me llamarán bienaventurada,"<br><br>49 "porque ha hecho en mi favor cosas grandes el Poderoso, Santo es su nombre"<br><br>50 "y su misericordia alcanza de generación en generación a los que le temen."<br><br>51 "Desplegó la fuerza de su brazo, dispersó a los de corazón altanero."<br><br>52 "Derribó a los potentados de sus tronos y exaltó a los humildes."<br><br>53 "A los hambrientos colmó de bienes y despidió a los ricos con las manos vacías."<br><br>54 "Acogió a Israel, su siervo, acordándose de la misericordia" <br><br>55 "como había anunciado a nuestros padres - en favor de Abrahán y de su linaje por los siglos.'"<br><br>56 "María se quedó con ella unos tres meses, y luego se volvió a su casa." |                                                                                                                                           |
+
+    
+**La Esposa sin mancha (Efesios 5:27 y Cantar 4:7):** La tradición exegética aplica a María las palabras del Cantar de los Cantares: _"Toda hermosa eres, amada mía, y no hay defecto en ti"_. Mientras que la Iglesia es santa pero está conformada por miembros pecadores, María es vista bíblicamente como la realización perfecta, originaria y personal de la Iglesia inmaculada descrita por San Pablo: _"una Iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha"_. María encarna en su propia persona este ideal bíblico de la criatura totalmente purificada y adherida a Dios.
+
+
+| Efesios 5:27                                                                                                              | Cantar 4:7                                             |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 27 "para presentársela a sí mismo, una Iglesia gloriosa, sin mancha ni arruga ni nada semejante, sino santa e inmaculada" | 7 "¡Toda hermosa eres, amada mía, no hay tacha en ti!" |
+
+### Evidencia Historiográfica acerca de la veneración a María como Santa.
+
+La evidencia historiográfica y arqueológica demuestra que la veneración a María como una figura santa, intercesora y singularmente pura no fue un invento teológico tardío ni medieval, sino un fenómeno orgánico que surgió en las primeras comunidades cristianas, mucho antes de que se formularan los dogmas oficiales.
+
+Las pruebas históricas se dividen en hallazgos papirológicos, arte paleocristiano, textos apócrifos y desarrollos arquitectónicos.
+
+**El Papiro Rylands 470 (La oración _Sub Tuum Praesidium_):** Esta es la joya de la corona de la evidencia histórica mariana. Es un fragmento de papiro encontrado en Egipto, datado por los paleógrafos predominantemente a mediados del **siglo III** (aprox. 250 d.C., durante las persecuciones del emperador Decio).
+
+Se trata de un tropario (himno bizantino). Es quizás el texto más antiguo que conservamos en que se llama Theotokos a la Virgen, en un contexto oracional e invocativo.
+
+El escritor utiliza un Sigma semilunar (es decir, «C «) para Σ. Las letras grises son las desaparecidos o parcialmente desaparecidas desde el papiro; el papiro no tiene espacios entre palabras, pero hay espacios en la trascripción del texto fuente que copio a continuación:
+
+| Español.                                                                                                                                                                                                                        | Sigma Semilunar.                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 Bajo su  <br>2 compasión  <br>3 nos refugiamos  <br>4 Theotokos nuestras  <br>5 peticiones no de-  <br>6 precies en tiempo de angustia  <br>7 y en los peligros  <br>8 rescatanos  <br>9 Sólo Santo Só-  <br>10 -lo Santísimo | 1 ΥΠΟ ΤΗΝ CΗΝ   <br>2 ΕΥCΠΛΑΓΧΝΙΑΝ  <br>3 ΚΑΤΑΦΕΥΓΟΜΕΝ  <br>4 ΘΕΟΤΟΚΕ ΤΑC ΗΜΩΝ  <br>5 ΙΚΕCΙΑC ΜΗ ΠΑ  <br>6 ΡΙΔΗC ΕM ΠΕΡΙCΤΑCΕΙ  <br>7 ΑΛΛ ‘ ΕΚ ΚΙΝΔΥΝΟΥ  <br>8 ΡΥCΑΙ ΗΜΑC  <br>9 ΜΟΝΗ ΑΓΝΗ , ΜΟΝ  <br>10 Η ΕΥΛΟΓΗΜΕΝΗ |
+| **Griego Koiné.**<br>                                                                                                                                                                                                           |                                                                                                                                                                                                                       |
+| Ὑπὸ τὴν σὴν εὐσπλαγχνίαν,  <br>καταφεύγομεν, Θεοτόκε  <br>Τὰς ἡμῶν ἱκεσίας,  <br>μὴ παρίδῃς ἐν περιστάσει,  <br>ἀλλ ἐκ κινδύνων λύτρωσαι ἡμᾶς,  <br>μόνη Ἁγνή, μόνη εὐλογημένη                                                  |                                                                                                                                                                                                                       |
+
+Demuestra que los cristianos comunes del siglo III ya se dirigían a ella en oración (lo que implica la creencia en su santidad y presencia celestial) y ya utilizaban el título _Theotokos_ (Madre de Dios) casi dos siglos antes de que la Iglesia lo definiera oficialmente en el Concilio de Éfeso.
+
+> Fuente:
+> [El Papiro John Rylands 470: la oración más antigua dirigida a la Virgen María (a. 250)](https://rsanzcarrera2.wordpress.com/2015/05/09/el-papiro-john-rylands-470-la-oracion-mas-antigua-dirigida-a-la-virgen-maria-a-250/)
+
+
+Antes de que la Iglesia tuviera libertad para construir grandes templos, los cristianos plasmaban su fe en las catacumbas donde enterraban a sus muertos y celebraban la Eucaristía en secreto.
+
+**Las Catacumbas de Priscila (Roma):** En este recinto subterráneo se encuentra la representación visual más antigua conocida de la Virgen María, datada entre **fines del siglo II y principios del siglo III**.
+
+El fresco muestra a María amamantando al niño Jesús, mientras un profeta (probablemente Balaam o Isaías) está de pie junto a ella señalando una estrella en lo alto.
+    
+**Significado histórico:** La inclusión de María en el arte funerario paleocristiano indica que la comunidad la consideraba una figura central de la historia de la salvación, no un mero "vehículo" temporal. En otras catacumbas contemporáneas (como las de San Pedro y San Marcelino) aparecen representaciones de la Anunciación y la adoración de los Reyes Magos, exaltando su papel.
+
+![[Pasted image 20260904210318.png|261]]
+> Fuentes:
+> ​[La primera imagen de la Virgen María - ¿está en las catacumbas de Santa Priscila?](https://www.primeroscristianos.com/la-primera-imagen-mariana-esta-en-las-catacumbas-de-santa-priscilla/)
+
+
+La historiografía no utiliza los evangelios apócrifos como fuente de verdad teológica, pero sí como **testimonios históricos invaluables** sobre lo que creían, pensaban y celebraban las primeras comunidades cristianas a nivel popular.
+
+**El Protoevangelio de Santiago:** Escrito alrededor del **año 150 d.C.** (apenas 50 años después de la muerte del último apóstol). Este texto tuvo una influencia monumental en el cristianismo primitivo.
+    
+**El contenido:** Narra la concepción milagrosa de María por parte de sus padres ancianos y estériles (Joaquín y Ana), su consagración en el Templo de Jerusalén a los tres años, y enfatiza radicalmente su pureza absoluta y virginidad perpetua.
+        
+**Significado histórico:** Historiográficamente, este documento prueba que, a mediados del siglo II, los cristianos ya tenían una inmensa inquietud y devoción por los orígenes de María. Sentían la necesidad de explicar que una mujer elegida para albergar a Dios debía tener, desde su mismo nacimiento, un origen santo, separado de la impureza del mundo y consagrado totalmente a lo divino.
+
+El texto del Protoevangelio de Santiago ha llegado hasta nuestros días en más de 140 manuscritos diferentes en griego. Esta abundancia de manuscritos implica un gran interés por el texto. Además, existen traducciones al siríaco, etiópico, copto, georgiano, eslavo antiguo, armenio, árabe, irlandés y latín. Igual que ocurre con el resto de los evangelios, incluyendo los canónicos, la mayor parte de los manuscritos son del siglo X o posteriores.
+
+El manuscrito más antiguo de este texto es un papiro de finales del siglo III o comienzos del siglo IV encontrado en 1958, conocido como Papiro Bodmer V porque se conserva en la Biblioteca Bodmeriana de Cologny (en las afueras de Ginebra).
+
+> Fuente:
+> [Protoevangelio de Santiago.](https://ia800500.us.archive.org/32/items/evangelios-apocrifos/PROTOEVANGELIO%20DE%20SANTIAGO.pdf)
+
+En el Oriente cristiano, la piedad popular y la liturgia comenzaron a utilizar títulos que reflejaban una creencia consolidada en su santidad total.
+
+**El surgimiento de la _Panagia_ (La Toda Santa):** A lo largo de los siglos III y IV, la evidencia epigráfica (inscripciones) y los textos litúrgicos orientales adoptaron masivamente el término _Panagia_ para referirse a María. Que una comunidad monoteísta, celosa de reservar la adoración solo a Dios, llamara a una criatura humana "Toda Santa" es una evidencia histórica del reconocimiento de una pureza excepcional y sin paralelo atribuida a ella.
+
+> Fuente:
+> [Panagia - Wiki.](https://es.wikipedia.org/wiki/Panagia)
+
+Una vez que el Imperio Romano legalizó el cristianismo (Edicto de Milán, 313 d.C.), la veneración privada y catacumbal explotó en expresiones públicas y monumentales.
+
+- **El Concilio de Éfeso (431 d.C.) y la reacción popular:** Históricamente, cuando el Concilio declaró a María como _Theotokos_ frente a la herejía de Nestorio, las crónicas documentan que la población de la ciudad de Éfeso salió a las calles con antorchas a celebrar la decisión. Esto demuestra que el Concilio no "impuso" la veneración a María, sino que ratificó dogmáticamente una devoción arraigada profundamente en el pueblo llano.
+    
+- **La Basílica de Santa María la Mayor (Roma):** Inmediatamente después del Concilio de Éfeso, el Papa Sixto III (entre 432 y 440 d.C.) mandó construir y dedicar esta inmensa basílica. Es el primer gran templo mariano de Occidente. Sus mosaicos monumentales del siglo V, que aún se conservan en el arco triunfal, no muestran a María simplemente como una madre humilde, sino vestida con las insignias de la realeza romana (como _Basilissa_ o Reina), evidenciando el establecimiento definitivo del culto público, estatal y litúrgico a su santidad.
+  
+  ---
+  ## ***Y por ésto, y todo lo comentado, nuestra madre es plenamente Santa, Inmaculada y eternamente Virgen.***
+  
+  # ***Amén.***
+---
