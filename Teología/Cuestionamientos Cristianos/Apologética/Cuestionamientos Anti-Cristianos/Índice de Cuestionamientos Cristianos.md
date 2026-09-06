@@ -13,3 +13,4 @@
 12. [[Argumento de la Necesidad-Capricho]] - Agustin Cogito
 13. [[El Argumento del Colapso Modal]] - Craig y Moreland (2003, p. 525)
 14. [[La Relación en la Trinidad Implica Partes]] - Dulcinea, Igorexia y Fel
+15. [[Las Víctimas de Crucifixión no Recibían Entierro]] - Bart Ehrman
