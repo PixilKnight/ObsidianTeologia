@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiAudioWaveform",
       "LiImages",
       "LiHouse",
-      "LiUserStar",
-      "LiSun",
-      "LiMoon"
+      "LiUserStar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,7 @@
   "Cuestionamientos Cristianos/Personas": "LiUserStar",
   "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Nuevo Testamento": "LiSun",
   "Cuestionamientos Cristianos/Bibliografía/Arqueología/Evidencia Arqueológica Relacionada al Viejo Testamento": "LiMoon",
-  "Home.md": "LiHouse"
+  "Home.md": "LiHouse",
+  "Cuestionamientos Cristianos/Exégesis": "LiAudioWaveform",
+  "Cuestionamientos Cristianos/Ensayos": "LiAlbum"
 }
