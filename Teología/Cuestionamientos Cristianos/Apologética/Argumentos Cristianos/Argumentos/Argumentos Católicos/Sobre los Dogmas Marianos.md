@@ -2,6 +2,7 @@
 banner_icon: ⛪
 banner: "![[banner--maria--2019jpg.jpg]]"
 banner_y: 0
+tags:
 ---
 # Los Dogmas Marianos.
 

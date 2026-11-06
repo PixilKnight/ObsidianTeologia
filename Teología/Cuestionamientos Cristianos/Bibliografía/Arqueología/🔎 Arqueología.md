@@ -198,7 +198,7 @@ _(Orden cronológico por antigüedad del período referido)_
 
 - [x] [[Evidencia arqueológica de la existencia de Nazaret en el s. I - Nazaret]]
 - [x] [[Barca del Mar de Galilea (Barca de Jesús) - Lago Kinéret, s. I AC-I DC||Barca del Mar de Galilea ("Barca de Jesús") - Lago Kinéret, s. I AC–I DC]]
-- [ ] [[Sinagoga de Cafarnaúm (donde Jesús enseñó, Mc 1:21) - Cafarnaúm, s. I DC]]
+- [x] [[Sinagoga de Cafarnaúm (donde Jesús enseñó) - Cafarnaúm, s. I DC]]
 - [ ] [[Sinagoga de Magdala y la Piedra de Magdala - Magdala, s. I DC]]
 - [ ] [[Sinagoga de Gamla - Golán, s. I AC–I DC]]
 
